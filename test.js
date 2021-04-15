@@ -3,8 +3,8 @@
 // e quindi continuo a scrivere
 //
 //
-ora qui scrivo CCCC
+a=0;
 // dd
 //
-continuo
+continuo();
 // e scrivo cacca
